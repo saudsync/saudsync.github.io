@@ -1,0 +1,12 @@
+title: "Written Notes Pedia"
+description: "A collection of written notes and blogs for learners."
+baseurl: "" # Keep empty for GitHub Pages
+url: "https://writtennotespedia.me"
+theme: minima
+paginate: 5
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+google_analytics: "UA-XXXXXXXXX-X" # Replace with your Google Analytics ID
