@@ -1,18 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="google-site-verification" content="8OSyzaXv4psarQDoPBmCIGueVzffKMaYq65MFBPUkv4" />
-    <title>{{ page.title }} - Written Notes Pedia</title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="8OSyzaXv4psarQDoPBmCIGueVzffKMaYq65MFBPUkv4" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
-<body>
-    {% include header.html %}
-    <main>
-        {{ content }}
-    </main>
-    {% include footer.html %}
-</body>
-</html>
