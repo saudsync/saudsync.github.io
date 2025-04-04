@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Notes - Written Notes Pedia</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="notes.html">Notes</a>
+            <a href="blog.html">Blog</a>
+        </nav>
+    </header>
+
+    <h1>Study Notes</h1>
+    <ul>
+        <li><a href="#">Class 10 Science Notes</a></li>
+        <li><a href="#">Physics Formula Sheet</a></li>
+    </ul>
+
+    <footer>
+        <p>© 2025 Written Notes Pedia</p>
+    </footer>
+</body>
+</html>
